@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1392395574 source:e:\cse_225_codes\queue_linkedlist\que.cpp
+	<cstddef>
+	<new>
+	"que.h"
+	<iostream>
+
+1392395252 e:\cse_225_codes\queue_linkedlist\que.h
+	"que.cpp"
+
+1392395574 e:\cse_225_codes\queue_linkedlist\que.cpp
+	<cstddef>
+	<new>
+	"que.h"
+	<iostream>
+
+1392405856 source:e:\cse_225_codes\queue_linkedlist\main.cpp
+	<iostream>
+	"que.h"
+	<cstdlib>
+
+1392395576 source:c:\users\asiantech\desktop\queue_linkedlist\queue_linkedlist\que.cpp
+	<cstddef>
+	<new>
+	"que.h"
+	<iostream>
+
+1392395254 c:\users\asiantech\desktop\queue_linkedlist\queue_linkedlist\que.h
+	"que.cpp"
+
+1392395576 c:\users\asiantech\desktop\queue_linkedlist\queue_linkedlist\que.cpp
+	<cstddef>
+	<new>
+	"que.h"
+	<iostream>
+
+1392443313 source:c:\users\asiantech\desktop\queue_linkedlist\queue_linkedlist\main.cpp
+	<iostream>
+	"que.h"
+	<cstdlib>
+	<windows.h>
+
+1393081074 source:d:\program files\cse\323\queue_linkedlist (2)\queue_linkedlist\queue_linkedlist\main.cpp
+	<iostream>
+	"que.h"
+	<cstdlib>
+	<windows.h>
+
+1392964909 d:\program files\cse\323\queue_linkedlist (2)\queue_linkedlist\queue_linkedlist\que.h
+	"que.cpp"
+
+1392964909 d:\program files\cse\323\queue_linkedlist (2)\queue_linkedlist\queue_linkedlist\que.cpp
+	<cstddef>
+	<new>
+	"que.h"
+	<iostream>
+
+1392964909 source:d:\program files\cse\323\queue_linkedlist (2)\queue_linkedlist\queue_linkedlist\que.cpp
+	<cstddef>
+	<new>
+	"que.h"
+	<iostream>
+
+1392964910 source:e:\net download\queue_linkedlist\que.cpp
+	<cstddef>
+	<new>
+	"que.h"
+	<iostream>
+
+1392964910 e:\net download\queue_linkedlist\que.h
+	"que.cpp"
+
+1392964910 e:\net download\queue_linkedlist\que.cpp
+	<cstddef>
+	<new>
+	"que.h"
+	<iostream>
+
+1393088698 source:e:\net download\queue_linkedlist\main.cpp
+	<iostream>
+	"que.h"
+	<cstdlib>
+	<windows.h>
+
